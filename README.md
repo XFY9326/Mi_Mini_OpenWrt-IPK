@@ -1,14 +1,5 @@
-# Mi_Mini_SS
+﻿# Xiaomi Mini OpenWrt ipk
 
-Xiaomi Mini OpenWrt Shadowsocks ipk
+适用在 小米路由器Mini OpenWrt 固件上使用的软件包
 
-适用在 小米路由器Mini OpenWrt固件
-
-Shadowsocks 插件 OpenWrt Chaos Calmer 15.05.1 版本的SDK下编译
-
-经测试可以在15.05.1版本的OpenWrt下使用
-
-需要在系统-软件包安装 iptables-mod-tproxy 与 ip 才能实现透明代理
-
-编译自：https://github.com/shadowsocks/openwrt-shadowsocks
-
+不同软件包使用的交叉编译固件略有不同，详见具体软件包的说明
