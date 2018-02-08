@@ -1,4 +1,4 @@
-﻿#Shadowsocks ipk
+# Shadowsocks ipk
 
 适用在 小米路由器Mini OpenWrt固件
 
