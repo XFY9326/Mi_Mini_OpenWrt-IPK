@@ -1,4 +1,4 @@
-﻿#dns-forwarder ipk
+# dns-forwarder ipk
 
 适用在 小米路由器Mini LEDE固件
 
